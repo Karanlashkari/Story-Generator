@@ -33,17 +33,6 @@ The project is structured to support future expansion, additional game mechanics
 
 ## Tech Stack
 
-- **Backend:** FastAPI, Python 3.10+
-- **Async Server:** Uvicorn
-- **Validation:** Pydantic
-- **Real-Time:** WebSockets
-- **Containerization:** Docker, Docker Compose
-- **Frontend:** Vite + React (client-side)
-
----
-
-## Tech Stack
-
 ### Backend
 - **FastAPI** – High-performance asynchronous web framework
 - **Python 3.10+** – Core programming language
